@@ -1,0 +1,9 @@
+train: ../dataset/train 
+val: ../dataset/val
+test: ../dataset/test
+
+# number of classes
+nc: 10
+
+# class names
+names: ['pn', 'pne', 'i5', 'p11', 'pl40', 'pl50', 'pl80', 'p26', 'pl60', 'i4']
